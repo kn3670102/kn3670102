@@ -2,7 +2,7 @@
 
 🔧 In my toolkit:
 
-Programming Languages: Python, R
+Programming Languages: Python
 Data Manipulation: Pandas, NumPy
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
 Data Visualization: Matplotlib, Seaborn, Tableau
